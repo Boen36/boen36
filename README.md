@@ -1,4 +1,10 @@
-## Hi there 👋
+## 我是一名AI产品经理，致力于持续地为世界带来好产品，专注于IPD产品管理和AI工程
+
+### 我是谁？
+- **兴趣**：科技创新、商业、投资
+- **能力**：敏感细心，喜欢收纳整理，想法多
+- **技术**：编程，IPD产品管理，AI协作，英文阅读，价值投机
+- **个性**：完美主义，追求极致
 
 <!--
 **Boen36/boen36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
