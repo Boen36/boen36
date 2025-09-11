@@ -4,7 +4,7 @@
 🚀 **兴趣**：科技创新、商业、投资<br/>
 🛠️ **能力**：敏感细心，喜欢收纳整理，想法多<br/>
 ⚙️ **技术**：编程、IPD 产品管理、AI 协作、英文阅读、价值投机<br/>
-✨ **个性**：不服输，奉献精神，完美主义，追求极致，喜欢创新<br/>
+✨ **个性**：不服输，奉献精神，追求极致，喜欢创新<br/>
 
 <!--
 **Boen36/boen36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
