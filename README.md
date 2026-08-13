@@ -2,7 +2,7 @@
 
 <img align="right" width="150" src="https://raw.githubusercontent.com/Boen36/my-pet/main/qa/previews/waving.gif" alt="奶盖 waving" />
 
-📍 **Hangzhou, China** · 🐶 **Big World** · 🛠 **AI × XR Full-stack Engineer**
+📍 **Hangzhou, China** · 🌌 **Big World** *(personal brand)* · 🛠 **AI × XR Full-stack Engineer**
 
 > I build end-to-end AR/XR experiences and evidence-governed AI Agent systems—from product definition and architecture to deployment and production iteration.
 >
@@ -22,10 +22,10 @@
 
 ## Professional Experience
 
-**Full-stack Engineer · Hangzhou Jipao Technology Co., Ltd. (杭州极跑科技有限公司) · 2019–2025**
+**Full-stack Engineer · Hangzhou Jipao Technology (杭州极跑科技有限公司) · 2019–2025 (5+ years)**
 
-- Built and iterated production modules for **水滴智店**, a SaaS platform for venue operations, over 5+ years.
-- Independently owned full-stack modules across venue booking, unattended swimming-facility operations, and sports matchmaking—from requirements and architecture to delivery and production iteration.
+- Built and iterated production SaaS modules for [**水滴智店**](https://zd.drip.im/), a venue-operations platform.
+- Independently delivered modules across venue booking, unattended swimming-facility operations, and sports matchmaking, covering full-stack implementation, integration, rollout, and production iteration.
 
 ## Selected Work
 
