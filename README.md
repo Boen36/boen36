@@ -2,13 +2,15 @@
 
 <img align="right" width="150" src="https://raw.githubusercontent.com/Boen36/my-pet/main/qa/previews/waving.gif" alt="奶盖 waving" />
 
-📍 **Hangzhou, China** · 🐶 **比格世界 Big World** · 🛠 **AI × XR Full-stack Engineer**
+📍 **Hangzhou, China** · 🐶 **Big World** · 🛠 **AI × XR Full-stack Engineer**
 
-> 构建从产品定义到生产交付的 AR/XR 与 AI Agent 系统。
->
 > I build end-to-end AR/XR experiences and evidence-governed AI Agent systems—from product definition and architecture to deployment and production iteration.
+>
+> 构建从产品定义到生产交付的 AR/XR 与 AI Agent 系统。
 
 [**Explore my selected work →**](https://github.com/Boen36/boen-ai-xr-portfolio)
+
+🌏 Open to international opportunities in AI, AR/XR, spatial computing, and product engineering.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
