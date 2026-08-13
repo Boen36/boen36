@@ -42,7 +42,6 @@ Unity/EasyAR → 8th Wall WebAR → 微信小程序，覆盖手势追踪、手�
 
 ### 📱 受限平台 3D 渲染
 
-- 微信小程序 three.js 模块化适配器（社区 8⭐）
 - 微信小程序 `xr-frame` 资产管线：env-data 生成、gltf 预处理与压缩纹理
 
 ### 🐝 HarmonyOS NEXT
