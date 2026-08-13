@@ -1,4 +1,6 @@
 # Hi, I'm Boen 👋
+<img align="right" width="150" src="https://raw.githubusercontent.com/Boen36/my-pet/main/qa/previews/waving.gif" alt="奶盖 waving" />
+
 
 📍 **Hangzhou, China** · 🐶 **比格世界 Big World** · 🛠 **AI × XR 全栈工程师**
 
@@ -53,7 +55,7 @@ Codex 桌宠、Rust 直播桌宠 MVP（语音口令 → 确定性动画）。
 
 ## 学习与输出 / Notes & Thinking
 
-[boen-ai-engineering](https://github.com/Boen36/boen-ai-engineering) · [boen-ai-pm](https://github.com/Boen36/boen-ai-pm) · [boen-product-takes](https://github.com/Boen36/boen-product-takes)
+[boen-ai-pm](https://github.com/Boen36/boen-ai-pm) · [boen-product-takes](https://github.com/Boen36/boen-product-takes)
 
 ## 联系 / Contact
 
