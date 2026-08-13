@@ -21,10 +21,3 @@
 | [pythonic_algorithms](https://github.com/Boen36/pythonic_algorithms) | Pythonic 风格的算法合集 |
 | [webxr](https://github.com/Boen36/webxr) | WebXR 实验 |
 
-## 📚 知识体系 / Knowledge Bases
-
-[boen-notes](https://github.com/Boen36/boen-notes) · [boen-ai-pm](https://github.com/Boen36/boen-ai-pm) · [boen-product-takes](https://github.com/Boen36/boen-product-takes) · [javascript-notes](https://github.com/Boen36/javascript-notes) · [stock-trading-review](https://github.com/Boen36/stock-trading-review)
-
-## 📊 GitHub 统计 / Stats
-
-![Boen36's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boen36&show_icons=true&theme=default&hide_title=true&count_private=false)
