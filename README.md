@@ -20,6 +20,13 @@
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![three.js](https://img.shields.io/badge/-three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 
+## Professional Experience
+
+**Full-stack Engineer · Hangzhou Jipao Technology Co., Ltd. (杭州极跑科技有限公司) · 2019–2025**
+
+- Built and iterated production modules for **水滴智店**, a SaaS platform for venue operations, over 5+ years.
+- Independently owned full-stack modules across venue booking, unattended swimming-facility operations, and sports matchmaking—from requirements and architecture to delivery and production iteration.
+
 ## Selected Work
 
 ### 📖 Personalized Content Production & WebAR
