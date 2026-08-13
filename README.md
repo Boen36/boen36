@@ -22,7 +22,6 @@
 
 - ⭐ [**threejs-miniprogram-adapter**](https://github.com/Boen36/threejs-miniprogram-adapter) (8⭐) — 微信小程序 three.js 模块化适配器，支持 three.js 0.183.1+
 - 🐱 [**my-pet**](https://github.com/Boen36/my-pet) — Codex v2 桌宠「奶盖」：8×11 动画图集 + QA 验证管线
-- 🥽 [**webxr**](https://github.com/Boen36/webxr) — WebXR 实验
 
 ## 核心能力 / What I Build
 
