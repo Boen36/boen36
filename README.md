@@ -1,62 +1,65 @@
 # Hi, I'm Boen 👋
+
 <img align="right" width="150" src="https://raw.githubusercontent.com/Boen36/my-pet/main/qa/previews/waving.gif" alt="奶盖 waving" />
 
+📍 **Hangzhou, China** · 🐶 **比格世界 Big World** · 🛠 **AI × XR Full-stack Engineer**
 
-📍 **Hangzhou, China** · 🐶 **比格世界 Big World** · 🛠 **AI × XR 全栈工程师**
+> 构建从产品定义到生产交付的 AR/XR 与 AI Agent 系统。
+>
+> I build end-to-end AR/XR experiences and evidence-governed AI Agent systems—from product definition and architecture to deployment and production iteration.
 
-> AR/XR 体验端到端交付，AI Agent 系统落地。
-> Where AI agents meet AR/XR experiences — from cloud inference to mini-program rendering.
+[**Explore my selected work →**](https://github.com/Boen36/boen-ai-xr-portfolio)
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![three.js](https://img.shields.io/badge/-three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![Babylon.js](https://img.shields.io/badge/-Babylon.js-183A61?style=flat-square&logo=babylondotjs&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![HarmonyOS](https://img.shields.io/badge/-HarmonyOS-1F1F1F?style=flat-square&logo=harmonyos&logoColor=white)
-![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
+![three.js](https://img.shields.io/badge/-three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 
-## Start Here
+## Selected Work
 
-- ⭐ [**threejs-miniprogram-adapter**](https://github.com/Boen36/threejs-miniprogram-adapter) (8⭐) — 微信小程序 three.js 模块化适配器，支持 three.js 0.183.1+
-- 🐱 [**my-pet**](https://github.com/Boen36/my-pet) — Codex v2 桌宠「奶盖」：8×11 动画图集 + QA 验证管线
+### 📖 Personalized Content Production & WebAR
 
-## 核心能力 / What I Build
+`Production System` · `Product + Full Stack + WebAR + DevOps`
 
-### 🥽 AR / XR 全链路
+An end-to-end system connecting customer customization, asynchronous media processing, operational review, production-file generation, and personalized WebAR publishing.
 
-Unity/EasyAR → 8th Wall WebAR → 微信小程序，覆盖手势追踪、手部重定向与 AR 产品：
+[Read the sanitized case study →](https://github.com/Boen36/boen-ai-xr-portfolio/blob/main/cases/01-personalized-ar-content-system.md)
 
-- **手部追踪与重定向**：单目手部追踪 Unity 插件（移动端前置摄像头 + EasyAR 接入）；HaMeR 云端推理 → Unity/WebAR 跨平台手部重定向管线（FastAPI + Ray Serve + Unity UPM 包）
-- **AR 产品系统**：AR 绘本 App 与伴读机器人 BLE 协同（Swift / MediaPipe）；8th Wall 双方案隐身特效
-- **3D 引擎**：three.js · Babylon.js 8（WebGPU + Havok 物理）· Unity · A-Frame
+### 🖐 Cross-platform Hand Pose & 3D Retargeting
 
-### 🤖 AI Agent 工程
+`R&D / Productized Prototype` · `Unity + Native + Python + Computer Vision`
 
-- **多智能体系统**：LangChain / LangGraph + Supervisor 智能路由 + Moonshot / OpenAI（七习惯 AI 教练：7 个专业智能体）
-- **行业 Agent 产品**：影视广告对话式 Agent + 视频拆解工作流；AI 素材混合检索（结构化 + 向量 + LLM 重排）
-- **AI 自动化**：Codex 情报雷达与日报管线；OpenClaw 运维自动化（钉钉机器人集成）
+A layered camera-to-rig pipeline covering hand-pose inference, canonical pose modeling, Unity runtime integration, native bridges, smoothing, and reusable rig-mapping direction.
 
-### 📱 受限平台 3D 渲染
+[Read the sanitized case study →](https://github.com/Boen36/boen-ai-xr-portfolio/blob/main/cases/02-cross-platform-hand-retargeting.md)
 
-- 微信小程序 `xr-frame` 资产管线：env-data 生成、gltf 预处理与压缩纹理
+### 🤖 Evidence-governed Advertising Agent
 
-### 🐝 HarmonyOS NEXT
+`Agent System` · `Contracts + Evaluation + Operations`
 
-ArkTS / 仓颉 / DevEco 开发实践。
+A professional Agent workflow governed by source evidence, structured artifacts, evented task state, replay evaluation, skill lifecycle, and release gates.
 
-### 🐱 桌宠与陪伴体验
+[Read the sanitized case study →](https://github.com/Boen36/boen-ai-xr-portfolio/blob/main/cases/03-evidence-governed-ad-agent.md)
 
-Codex 桌宠、Rust 直播桌宠 MVP（语音口令 → 确定性动画）。
+## Open Source & Experiments
 
-## 学习与输出 / Notes & Thinking
+- ⭐ [**threejs-miniprogram-adapter**](https://github.com/Boen36/threejs-miniprogram-adapter) — a three.js compatibility layer for WeChat Mini Program WebGL2 environments.
+- 🐱 [**my-pet**](https://github.com/Boen36/my-pet) — a Codex v2 desktop-pet asset with a reproducible validation and recovery workflow.
+- 🎙️ [**Local voice-interactive desktop pet**](https://github.com/Boen36/boen-ai-xr-portfolio/blob/main/cases/04-local-voice-interactive-pet.md) — a Rust + Tauri MVP using offline keyword spotting and deterministic animation.
 
-[boen-ai-pm](https://github.com/Boen36/boen-ai-pm) · [boen-product-takes](https://github.com/Boen36/boen-product-takes)
+## What I Bring
 
-## 联系 / Contact
+- **Product to production:** product specification, architecture, implementation, QA, deployment, rollback, and production iteration.
+- **Cross-boundary engineering:** AI inference, AR/WebAR, Unity, native mobile bridges, web applications, and cloud services.
+- **Evidence-driven delivery:** explicit system boundaries, reproducible tests, smoke checks, replay evaluation, and honest validation status.
+
+## Notes & Thinking
+
+[AI Product Management](https://github.com/Boen36/boen-ai-pm) · [Product Takes](https://github.com/Boen36/boen-product-takes)
+
+## Contact
 
 📧 hwboen@163.com
